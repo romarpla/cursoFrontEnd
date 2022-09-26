@@ -104,19 +104,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
    - Módulos
    - Práctica VUEX
 
-7. [Angular](./07%20-%20ANGULAR/angular.md)
-
-   - ¿Qué es Angular?
-   - Prerequisitos y setup
-   - Componentes
-   - Plantillas
-   - Inyección de dependencias
-   - Angular CLI
-   - Aplicación de ejemplo
-   - Práctica de Angular
-   - Despliegue de aplicación
-
-8. [Azure](./08%20-%20AZURE/azure.md)
+7. [Azure](./08%20-%20AZURE/azure.md)
    - Azure Static Web App
    - Setup
    - Github Actions
